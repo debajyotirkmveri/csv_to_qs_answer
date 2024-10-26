@@ -1,0 +1,23 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+#chromadb
+faiss-cpu
+langchain_google_genai
+pytesseract
+pdf2image
+pillow
+openpyxl
+langchain-community
+torch 
+Pillow
+requests 
+transformers
+accelerate>=0.26.0
+#pip install -U bitsandbytes
+transformers==4.28.1
+pytorch-lightning==1.8.5
+datasets
+sentencepiece
